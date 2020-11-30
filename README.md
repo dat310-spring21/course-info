@@ -13,7 +13,7 @@ This repository is for the 2021 spring edition of the DAT310 Web programming cou
 This is a tentative shedule and will be subject to changes.
 
 | Week | Lecture | Topic | Resources |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 1 | 1 | HTML | [slides](slides/HTML.pdf), [examples](examples/html/basic), [exercises](exercises/html/basic), [solutions](solutions/html/basic)|
 | 2 | 1 | CSS Part I. (properties) | [slides](slides/CSS-p1.pdf), [examples](examples/css/properties), [exercises](exercises/css/properties), [solutions](solutions/css/properties) |
 | 2 | 2 | CSS Part II. (selectors) | [slides](slides/CSS-p2.pdf), [examples](examples/css/selectors), [exercises](exercises/css/selectors), [solutions](solutions/css/selectors) |
