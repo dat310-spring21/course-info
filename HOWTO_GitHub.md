@@ -8,28 +8,28 @@
 
 There are three GitHub repositories:
 
-  * [dat310-spring20/course-info](https://github.com/dat310-spring20/course-info/): (i.e., this repository) contains examples, exercises, etc. (public)
-  * [dat310-spring20/{yourname}-assignments](https://github.com/dat310-spring20/): your submissions for the assignments ({yourname} is to be substituted with the username you registered on GitHub) (private)
-  * [dat310-spring20/assignments](https://github.com/dat310-spring20/assignments): contains assignment descriptions
+  * [dat310-spring21/course-info](https://github.com/dat310-spring21/course-info/): (i.e., this repository) contains examples, exercises, etc. (public)
+  * [dat310-spring21/{yourname}-assignments](https://github.com/dat310-spring21/): your submissions for the assignments ({yourname} is to be substituted with the username you registered on GitHub) (private)
+  * [dat310-spring21/assignments](https://github.com/dat310-spring21/assignments): contains assignment descriptions
 
 Private means that you need to sign up on the [Online Course Admin](https://ux.uis.no/~ljehl/dat310/) to get access to these repositories. (*Note that the private repositories are created manually, in batches, so you might need to wait 1-2 days after you signed up.*)
 
 
 ### Examples and exercises (course-info)
 
-You can clone this repository to get a local copy of the examples and exercises used during the lectures. This is the fastest way to get started on exercises during class.
-It is advised that you treat this local copy read-only, that is, you can add new files, but you should not edit any of the existing files to avoid conflicting changes.
+You can clone this repository to get a local copy of the examples and exercises. This is the fastest way to get started on exercises during class.
+This is a good option especially for some more advanced exercises, that have a initial setup of multiple files to get you started. 
+These start files may not work, if you change the relative location of files.
 
-Alternatively, you can always just open the exercise files on GitHub and copy-paste their contents into new files on your local computer.
-
+The procedure to clone the course-info repository is the same as described below.
 
 ### Your assignments ({username}-assignments)
 
 This is your private repository; no one will (or can) make changes here but you. 
 Clone this repository on your computer, add/edit the files in the folder corresponding to the given assignment, then commit and push ("sync") the changes. You can make sure that your changes have been submitted by checking the contents on the web interface:
-https://github.com/dat310-spring20/{username}-assignments
+https://github.com/dat310-spring21/{username}-assignments
 
-  * If the link does not work, then you might have to accept the GitHub invitation first (this is to be done only once). Go to https://github.com/dat310-spring20, where you should see an Accept button. Then, you will be able to access your repository.
+  * If the link does not work, then you might have to accept the GitHub invitation first (this is to be done only once). Go to https://github.com/dat310-spring21, where you should see an Accept button. Then, you will be able to access your repository.
   * When a new assignment is published, I will create a folder with starting code for this assignment and push it to your assignments repository. Make sure to pull ("sync") the starting code before starting on the assignment. It is important that the solution to your assignment is delivered within this folder.
 * **To hand in assignment 1** you push this repository to github, containing your solution in the folder named 1. 
 At deadline, I will download your assignments and correct them together with the student assistants.
@@ -70,7 +70,7 @@ Download it from: https://desktop.github.com/
 
 ### 2. Clone your assignments repository
 
-  * Go to your private repository: https://github.com/dat310-spring20/{yourname}-assignments
+  * Go to your private repository: https://github.com/dat310-spring21/{yourname}-assignments
   * Click the *clone in Desktop* button.
 
 ![Step 1](images/Github-CloneInDesktop.png)
