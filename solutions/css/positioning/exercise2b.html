@@ -3,28 +3,45 @@
 <head>
     <title>Exercise #2b: Positioning</title>
     <style>
-        #outer {
+        /* This rule below ensures the body covers the complete displayed area */
+        * {
+            margin: 0;
+        }
+        html {
+            height: 100%;
+        }
+        body {
+            height: 90%;
+            padding: 5%;
+        }
+        #container {
+            height: 100%;
+            border: 2px solid black;
+            position: relative;
+        }
+        #left {
             background: #44accf;
             position: absolute;
-            top: 10px;
-            right: 10px;
-            bottom: 10px;
-            left: 10px;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 50%;
         }
 
-        #inner {
+        #right {
             background: #ff9c34;
             position: absolute;
-            top: 20px;
-            right: 20px;
-            bottom: 20px;
-            left: 20px;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            width: 50%;
         }
     </style>
 </head>
 <body>
-<div id="outer">
-    <div id="inner"></div>
-</div>
+    <div id="container">
+        <div id="left"></div>
+        <div id="right"></div>
+    </div>
 </body>
 </html>

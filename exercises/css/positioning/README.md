@@ -31,7 +31,8 @@ Move the even boxes 10px up and the odd boxes 10px down with respect to their or
 
 **#2b)** [Starter file](exercise2b.html)
 
-Create a border offset of 10px by the document. Make it entirely fluid (i.e., fill the browser window) as the document resizes (using absolute positioning).
+Use absolute positioning to place the `left` and `right` elements to the left and right side of the container.
+
 
 ![Exercise2b](images/exercise2b.png)
 
