@@ -17,7 +17,7 @@ This is a tentative shedule and will be subject to changes.
 
 | Week | Lecture | Topic | Resources |
 | --- | --- | --- | --- |
-| 1 | 1 | HTML | [slides](slides/HTML.pdf), [examples](examples/html/basic), [exercises](exercises/html/basic), [solutions](solutions/html/basic)|
+| 1 | 1 | HTML | [slides](slides/HTML.pdf), [examples](examples/html/basic), [exercises](exercises/html/basic), [solutions](solutions/html/basic), [video](https://stavanger.instructuremedia.com/embed/f559ea93-4158-41ff-8e3a-a8525838c118)|
 | 2 | 1 | CSS Part I. (properties) | [slides](slides/CSS-p1.pdf), [examples](examples/css/properties), [exercises](exercises/css/properties), [solutions](solutions/css/properties) |
 | 2 | 2 | CSS Part II. (selectors) | [slides](slides/CSS-p2.pdf), [examples](examples/css/selectors), [exercises](exercises/css/selectors), [solutions](solutions/css/selectors) |
 | 3 | 1 | CSS Part III. (positioning) | [slides](slides/CSS-p3.pdf), [examples](examples/css/positioning), [exercises](exercises/css/positioning), [solutions](solutions/css/positioning) |
