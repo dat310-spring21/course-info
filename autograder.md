@@ -82,9 +82,9 @@ This section give step-by-step instructions on how to submit assignments.
    ```console
    mkdir $HOME/dat310
    cd $HOME/dat310
-   git clone https://github.com/dat310/username-labs assignments
+   git clone https://github.com/dat310-spring21/username-labs assignments
    cd assignments
-   git remote add course-assignments https://github.com/dat310/assignments
+   git remote add course-assignments https://github.com/dat310-spring21/assignments
    git pull course-assignments master
    ```
 
