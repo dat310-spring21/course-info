@@ -2,7 +2,7 @@
 
 This repository is for the 2021 spring edition of the DAT310 Web programming course at the University of Stavanger. 
 
-  - **Intro**: [Slides](slides/2021-Course_info.pdf)
+  - **Intro**: [Slides](slides/2021-Course_info.pdf) [Video](https://stavanger.instructuremedia.com/embed/b66dbadf-30e6-48cf-a058-466566e11092)
   - [Assignments](https://github.com/dat310-spring21/assignments) (and [how to hand them in on GitHub](autograder.md))
   - [Autograder](https://uis.itest.run)
   - [Discord server](https://discord.gg/DmYvcMHFxf)
