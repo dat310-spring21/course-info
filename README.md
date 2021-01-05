@@ -19,7 +19,7 @@ This is a tentative shedule and will be subject to changes.
 | --- | --- | --- | --- |
 | 1 | 1 | HTML | [slides](slides/HTML.pdf), [examples](examples/html/basic), [exercises](exercises/html/basic), [solutions](solutions/html/basic), [video](https://stavanger.instructuremedia.com/embed/f559ea93-4158-41ff-8e3a-a8525838c118)|
 | 2 | 1 | CSS Part I. (properties) | [slides](slides/CSS-p1.pdf), [examples](examples/css/properties), [exercises](exercises/css/properties), [solutions](solutions/css/properties), [video](https://stavanger.instructuremedia.com/embed/9f07f6db-1580-4575-8ae3-e156c9618b82) |
-| 2 | 2 | CSS Part II. (selectors) | [slides](slides/CSS-p2.pdf), [examples](examples/css/selectors), [exercises](exercises/css/selectors), [solutions](solutions/css/selectors) |
+| 2 | 2 | CSS Part II. (selectors) | [slides](slides/CSS-p2.pdf), [examples](examples/css/selectors), [exercises](exercises/css/selectors), [solutions](solutions/css/selectors), [video](https://stavanger.instructuremedia.com/embed/2ddf14fe-223b-4085-a58d-ab4ec7b675c4) |
 | 3 | 1 | CSS Part III. (positioning) | [slides](slides/CSS-p3.pdf), [examples](examples/css/positioning), [exercises](exercises/css/positioning), [solutions](solutions/css/positioning) |
 | 3 | 2 | HTML Forms | [slides](slides/HTML-Forms.pdf), [examples](examples/html/forms), [exercises](exercises/html/forms), [solutions](solutions/html/forms)  |
 | 4 | 1 | JavaScript Part I. (basics)  | [slides](slides/JS-p1.pdf), [examples](examples/js/basics), [exercises](exercises/js/basics), [solutions](solutions/js/basics) |
