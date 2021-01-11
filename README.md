@@ -13,7 +13,7 @@ This repository is for the 2021 spring edition of the DAT310 Web programming cou
   
 ## Schedule 
  
-This is a tentative shedule and will be subject to changes.
+This is a tentative schedule and will be subject to changes.
 
 | Week | Lecture | Topic | Resources |
 | --- | --- | --- | --- |
