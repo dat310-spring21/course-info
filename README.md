@@ -25,7 +25,7 @@ This is a tentative schedule and will be subject to changes.
 | 4 | 1 | JavaScript Part I. (basics)  | [slides](slides/JS-p1.pdf), [examples](examples/js/basics), [exercises](exercises/js/basics), [solutions](solutions/js/basics) |
 | 4 | 2 | JavaScript Part II. (dom manipulation) | [slides](slides/JS-p2.pdf), [examples](examples/js/events_dom), [exercises](exercises/js/events_dom), [solutions](solutions/js/events_dom) |
 | 5 | 1 | JavaScript Part III. (more) | [slides](slides/JS-p3.pdf), [examples](examples/js/more), [exercises](exercises/js/more), [solutions](solutions/js/more) |
-| 5 | 2 | Bootstrap |  |
+| 5 | 2 | Bootstrap | [slides](slides/Bootstrap5.pdf), [examples](examples/bootstrap), [exercises](exercises/bootstrap), [solutions](solutions/bootstrap) |
 | 6 | 1 | JS Async |  |
 | 6 | 2 | Vue Part I. |  |
 | 7 | 1 | Vue Part II. |  |
