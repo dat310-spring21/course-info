@@ -40,7 +40,8 @@ Desktop view:
 
 ## Exercise #2c: Spacing
 
-Add spacing between columns and 
+Add spacing between columns and rows. This requires to add one level of nesting to the design.
+Start from [exercise2c.html](exercise2c.html).
 
 Hint: use [grid system](https://getbootstrap.com/docs/5.0/layout/grid/) on rows and [display utility](https://getbootstrap.com/docs/5.0/utilities/display/)
 
