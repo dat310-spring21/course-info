@@ -17,7 +17,7 @@ function init(){
             // create new display for countdown
             let display = new CountdownDisplay("countdown",timeLeft);
             // create countdown
-            new Countdown(timeLeft, display.update, ()=>setTimeout(display.remove, 5000)).start();
+            new Countdown(timeLeft, display.update, display.removeWithTimeout).start();
     }
 
 }

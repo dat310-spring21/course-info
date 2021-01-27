@@ -13,14 +13,15 @@
             margin: 10px;
         }
 
-        .red {
+        #red {
             background-color: red;
         }
     </style>
-    <script src="event_listener_this.js"></script>
+    <script src="event_listener_this.js" defer>
+    </script>
 </head>
 <body>
-<div onclick="handle(this,'green')"></div>
+<div onclick="handle(this, 'green');"></div>
 <div id="red"></div>
 </body>
 </html>
