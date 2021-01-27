@@ -1,6 +1,6 @@
 "use strict";
 /**
- * Exercise #9: Countdown timer
+ * Exercise #4: Countdown timer
  */
 
 let timeLeft = -1
@@ -39,11 +39,13 @@ function onTick(){
         alert("Time is up!");
         document.querySelector("#countdown").style.display = "none";
         document.querySelector("form[name='countdown_form']").style.display = "block";
+        // remember to remove the timer, to allow 
+        // clearInterval(timer);
     }
 }
 
 function setDisplay(isInitial){
-    document.getElementById("time").innerText = getSecondDisplay(timeLeft);
+    document.getElementById("timer").innerText = getSecondDisplay(timeLeft);
     let progress = document.getElementById("progressbar");
     if (isInitial){
         progress.max = timeLeft;

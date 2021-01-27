@@ -52,6 +52,8 @@
 
 ![Exercise4](images/exercise4.png)
 
+  - Can you use your timer several times? If not, why?
+
 ## Exercise #5: Card board
 
   - When the "Deal cards" button is pressed, create cards and place them in a grid layout, as specified in the select list (the format is `sizeCols x sizeRows`).

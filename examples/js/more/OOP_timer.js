@@ -1,6 +1,6 @@
 "use strict";
 /**
- * Exercise #9: Countdown timer
+ * Exercise #4: Countdown timer
  */
 
 function init(){
@@ -12,9 +12,11 @@ function init(){
             // set time left (seconds)
             let timeLeft = this.querySelector("#minutes").value * 60;
 
-            // this.style.display = "none";  // hide form
             document.querySelector("#countdown").style.display = "block";  // show countdown div
+
+            // create new display for countdown
             let display = new CountdownDisplay("countdown",timeLeft);
+            // create countdown
             new Countdown(timeLeft, display.update, ()=>setTimeout(display.remove, 5000)).start();
     }
 

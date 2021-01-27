@@ -1,6 +1,6 @@
 "use strict";
 /**
- * Exercise #9: Countdown timer
+ * Exercise #4: Countdown timer
  */
 
 let timeLeft = -1
