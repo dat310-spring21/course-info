@@ -24,7 +24,7 @@ This is a tentative schedule and will be subject to changes.
 | 3 | 2 | HTML Forms | [slides](slides/HTML-Forms.pdf), [examples](examples/html/forms), [exercises](exercises/html/forms), [solutions](solutions/html/forms), [video](https://stavanger.instructuremedia.com/embed/d8018180-a6ef-49b1-b6be-5bbeb4b6d613) |
 | 4 | 1 | JavaScript Part I. (basics)  | [slides](slides/JS-p1.pdf), [examples](examples/js/basics), [exercises](exercises/js/basics), [solutions](solutions/js/basics), [video](https://stavanger.instructuremedia.com/embed/ebf78a05-c105-446c-8e60-661b40b624ce) |
 | 4 | 2 | JavaScript Part II. (dom manipulation) | [slides](slides/JS-p2.pdf), [examples](examples/js/events_dom), [exercises](exercises/js/events_dom), [solutions](solutions/js/events_dom), [video](https://stavanger.instructuremedia.com/embed/7aec4f48-5736-43d2-bce8-b9e8a9a23700) |
-| 5 | 1 | JavaScript Part III. (more) | [slides](slides/JS-p3.pdf), [examples](examples/js/more), [exercises](exercises/js/more), [solutions](solutions/js/more) |
+| 5 | 1 | JavaScript Part III. (more) | [slides](slides/JS-p3.pdf), [examples](examples/js/more), [exercises](exercises/js/more), [solutions](solutions/js/more), [video](https://stavanger.instructuremedia.com/embed/1f174a69-f802-44b9-a307-3f34bc681c3c) |
 | 5 | 2 | Bootstrap | [slides](slides/Bootstrap5.pdf), [examples](examples/bootstrap), [exercises](exercises/bootstrap), [solutions](solutions/bootstrap) |
 | 6 | 1 | JS Async |  |
 | 6 | 2 | Vue Part I. |  |
