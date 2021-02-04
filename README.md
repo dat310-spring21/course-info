@@ -27,7 +27,7 @@ This is a tentative schedule and will be subject to changes.
 | 4 | 2 | JavaScript Part II. (dom manipulation) | [slides](slides/JS-p2.pdf), [examples](examples/js/events_dom), [exercises](exercises/js/events_dom), [solutions](solutions/js/events_dom), [video](https://stavanger.instructuremedia.com/embed/7aec4f48-5736-43d2-bce8-b9e8a9a23700) |
 | 5 | 1 | JavaScript Part III. (more) | [slides](slides/JS-p3.pdf), [examples](examples/js/more), [exercises](exercises/js/more), [solutions](solutions/js/more), [video](https://stavanger.instructuremedia.com/embed/1f174a69-f802-44b9-a307-3f34bc681c3c) |
 | 5 | 2 | Bootstrap | [slides](slides/Bootstrap5.pdf), [examples](examples/bootstrap), [exercises](exercises/bootstrap), [solutions](solutions/bootstrap), [video](https://stavanger.instructuremedia.com/embed/d6c935af-2f55-4583-b33b-48bba2f7fb24) |
-| 6 | 1 | JS Async |  |
+| 6 | 1 | JS Async | (cancelled, will be covered together with AJAX) |
 | 6 | 2 | Vue Part I. |  |
 | 7 | 1 | Vue Part II. |  |
 | 7 | 2 | Vue Part III. |  |
