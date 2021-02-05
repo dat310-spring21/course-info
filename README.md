@@ -28,7 +28,7 @@ This is a tentative schedule and will be subject to changes.
 | 5 | 1 | JavaScript Part III. (more) | [slides](slides/JS-p3.pdf), [examples](examples/js/more), [exercises](exercises/js/more), [solutions](solutions/js/more), [video](https://stavanger.instructuremedia.com/embed/1f174a69-f802-44b9-a307-3f34bc681c3c) |
 | 5 | 2 | Bootstrap | [slides](slides/Bootstrap5.pdf), [examples](examples/bootstrap), [exercises](exercises/bootstrap), [solutions](solutions/bootstrap), [video](https://stavanger.instructuremedia.com/embed/d6c935af-2f55-4583-b33b-48bba2f7fb24) |
 | 6 | 1 | JS Async | (cancelled, will be covered together with AJAX) |
-| 6 | 2 | Vue Part I. |  |
+| 6 | 2 | Vue Part I. | [slides](slides/Vue-p1.pdf), [examples](examples/js/vue), [exercises](exercises/js/vue), [solutions](solutions/js/vue) |
 | 7 | 1 | Vue Part II. |  |
 | 7 | 2 | Vue Part III. |  |
 | | | Python basics | [slides-1](https://speakerdeck.com/ljehl/python-p1) [slides-2](https://speakerdeck.com/ljehl/dat310-python-p2), [examples](examples/python/basics), [exercises](exercises/python/basics), [solutions](solutions/python/basics) |
