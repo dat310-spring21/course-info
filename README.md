@@ -30,7 +30,7 @@ This is a tentative schedule and will be subject to changes.
 | 6 | 1 | JS Async | (cancelled, will be covered together with AJAX) |
 | 6 | 2 | Vue Part I. | [slides](slides/Vue-p1.pdf), [examples](examples/js/vue), [exercises](exercises/js/vue), [solutions](solutions/js/vue), [video](https://stavanger.instructuremedia.com/embed/f154f638-2894-4eef-a901-a55e7b4d9cc1) |
 | 7 | 1 | Vue Part II. | [slides](slides/Vue-p2.pdf), [examples](examples/js/vue2), [exercises](exercises/js/vue2), [solutions](solutions/js/vue2), [video](https://stavanger.instructuremedia.com/embed/25447d78-9d3f-4b95-8949-5b748c042f73) |
-| 7 | 2 | Vue Part III. | [slides](slides/Vue-p3.pdf), [examples](examples/js/vue3), [exercises](exercises/js/vue3), [solutions](solutions/js/vue3) |
+| 7 | 2 | Vue Part III. | [slides](slides/Vue-p3.pdf), [examples](examples/js/vue3), [exercises](exercises/js/vue3), [solutions](solutions/js/vue3), [video](https://stavanger.instructuremedia.com/embed/42ddc58c-7044-495f-bf43-7a661dce4b3f) |
 | | | Python basics | [slides-1](https://speakerdeck.com/ljehl/python-p1) [slides-2](https://speakerdeck.com/ljehl/dat310-python-p2), [examples](examples/python/basics), [exercises](exercises/python/basics), [solutions](solutions/python/basics) |
 | 8 | 1 | HTTP |  |
 | 8 | 2 | Flask Part I. (requests) |  |
