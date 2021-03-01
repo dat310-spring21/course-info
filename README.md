@@ -35,7 +35,7 @@ This is a tentative schedule and will be subject to changes.
 | 8 | 1 | HTTP | [slides](slides/HTTP.pdf), [examples](examples/python/http), [exercises](exercises/python/http), [solutions](solutions/python/http), [video](https://stavanger.instructuremedia.com/embed/5c77c0c9-1bce-4704-ad97-9da5d0ab4e75) |
 | 8 | 2 | Flask Part I. (requests) | [slides](slides/Flask-p1.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask1), [solutions](solutions/python/flask1), [video](https://stavanger.instructuremedia.com/embed/c32dbb63-1440-4930-91dc-8e279136da99) |
 | 9 | 1 | Flask Part II. (templates) | [slides](slides/Flask-p2.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask2), [solutions](solutions/python/flask2) |
-| 9 | 2 | Flask Part III. (database handling) |  |
+| 9 | 2 | Flask Part III. (database handling) | [slides](slides/Flask-p3.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask3), [solutions](solutions/python/flask3) |
 | 10 | 0 | No lectures |  |
 | 11 | 1 | AJAX |  |
 | 11 | 2 | AJAX & Vue |  |

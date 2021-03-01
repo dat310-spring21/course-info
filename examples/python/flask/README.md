@@ -9,7 +9,8 @@ For all these examples, run `app.py` then go to http://127.0.0.1:5000/ in your b
 | [2_static](2_static/) | Serving static files |
 | [3_forms](3_forms/) | Form handling |
 | [4_templates](4_templates/) | Using templates |
-| [5_mysql](5_mysql/) | Using MySQL |
+| [5_sqlite](5_sqlite/) | Using SQLite |
+| [5_mysql](5_mysql/) | Using MySQL (not curriculum) |
 | [6_cookies](6_cookies/) | Using Cookies |
 | [7_sessions](7_sessions/) | Using sessions |
 | [8_file_upload](8_file_upload/) | File upload |
