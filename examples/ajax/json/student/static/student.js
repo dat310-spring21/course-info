@@ -8,9 +8,7 @@ async function getStudent(){
 }
 
 async function sendStudent(){
-    let student = {
-        name: name, student_no: student_no
-    };
+    let student = {};
     student.name = document.getElementById("name").value;
     student.student_no = document.getElementById("student_no").value;
     
@@ -20,7 +18,7 @@ async function sendStudent(){
         headers: {
             "Content-Type": "application/json",
         },
-        body: JSON.stringify({name: name, student_no: student_no})
+        body: JSON.stringify(student)
     });
     if (reply.status == 200){
         console.log("Success");
