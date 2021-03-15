@@ -38,7 +38,7 @@ This is a tentative schedule and will be subject to changes.
 | 9 | 2 | Flask Part III. (database handling) | [slides](slides/Flask-p3.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask3), [solutions](solutions/python/flask3), [video](https://stavanger.instructuremedia.com/embed/ed2ef4b9-157a-4059-893b-2937a2ca72b5) |
 | 10 | 0 | No lectures |  |
 | 10 | 1 | JS Async | [slides](slides/JS-async.pdf), [examples](examples/async/js), [exercises](exercises/async/js), [solutions](solutions/async/js), [video](https://stavanger.instructuremedia.com/embed/e50650ad-aad6-4794-a59e-d0ac40243ce9) |
-| 11 | 1 | AJAX |  |
+| 11 | 1 | AJAX | [slides](slides/AJAX.pdf), [examples](examples/ajax), [exercises](exercises/ajax), [solutions](solutions/ajax) |
 | 11 | 2 | AJAX & Vue |  |
 | 12 | 1 | Flask Part IV. (cookies & session) |  |
 | 13 | 0 | Easter |  |
