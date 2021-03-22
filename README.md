@@ -40,7 +40,8 @@ This is a tentative schedule and will be subject to changes.
 | 10 | 1 | JS Async | [slides](slides/JS-async.pdf), [examples](examples/async/js), [exercises](exercises/async/js), [solutions](solutions/async/js), [video](https://stavanger.instructuremedia.com/embed/e50650ad-aad6-4794-a59e-d0ac40243ce9) |
 | 11 | 1 | AJAX | [slides](slides/AJAX.pdf), [examples](examples/ajax), [exercises](exercises/ajax), [solutions](solutions/ajax), [video](https://stavanger.instructuremedia.com/embed/caf8d83c-7aff-4c74-9ea2-3599cae0c6f4) |
 | 11 | 2 | AJAX & Vue | [slides](slides/AJAX+Vue.pdf), [examples](examples/ajax/vue), [exercises](exercises/ajax/vue), [solutions](solutions/ajax/vue), preliminary:[video](https://stavanger.instructuremedia.com/embed/325a2b97-9dcd-4dc5-8ef0-920436216e62) |
-| 12 | 1 | Flask Part IV. (cookies & session) |  |
+| 12 | 1 | RESTfull APIs | [slides](slides/REST-API.pdf), [example](examples/ajax/vue), [exercises](exercises/ajax/rest), [solutions](solutions/ajax/rest) |
+| 12 | 2 | Flask Part IV. (cookies & session) |  |
 | 13 | 0 | Easter |  |
 | 14 | 1 | Web APIs |  |
 | 15 | 1 | TBA |  |
