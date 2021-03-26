@@ -42,8 +42,8 @@ This is a tentative schedule and will be subject to changes.
 | 11 | 2 | AJAX & Vue | [slides](slides/AJAX+Vue.pdf), [examples](examples/ajax/vue), [exercises](exercises/ajax/vue), [solutions](solutions/ajax/vue), preliminary:[video](https://stavanger.instructuremedia.com/embed/325a2b97-9dcd-4dc5-8ef0-920436216e62) |
 | 12 | 1 | RESTfull APIs | [slides](slides/REST-API.pdf), [example](examples/ajax/vue), [exercises](exercises/ajax/rest), [solutions](solutions/ajax/rest), [video](https://stavanger.instructuremedia.com/embed/d4b0b522-119f-47cc-8041-42658ded261a) |
 | 12 | 2 | Flask Part IV. (cookies & session) | [slides](slides/Flask-p4.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask4), [solutions](solutions/python/flask4), [video](https://stavanger.instructuremedia.com/embed/e24de3e2-ecbc-4eaa-9dbd-05fa282a41a7) |
-| 13 | 0 | Easter |  |
-| 14 | 1 | Web APIs |  |
+| 13 | 0 | Easter | [slides](slides/Flask-p5.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask5), [solutions](solutions/python/flask5) |
+| 14 | 1 | Login |  |
 | 15 | 1 | TBA |  |
 | 16 | 1 | TBA |  |
 | 17 | 1 | TBA |  |
