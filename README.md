@@ -7,7 +7,7 @@ This repository is for the 2021 spring edition of the DAT310 Web programming cou
   - [Autograder](https://uis.itest.run)
   - [Discord server](https://discord.gg/DmYvcMHFxf)
   - [List of useful resources](Resources.md)
-  - **Preliminary:** [Exam info](exam-info.md)
+  - [**Exam project**](examproject/examproject.md)
   
   
   
