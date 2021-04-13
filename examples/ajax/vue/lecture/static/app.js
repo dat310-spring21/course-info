@@ -1,4 +1,4 @@
-let app =  createVue({
+let app =  Vue.createApp({
     data: function(){
         return {
             playlist: []
@@ -13,6 +13,10 @@ let app =  createVue({
     methods: {
         addSong: function(song) {
             song.saving = true;
+
+            // this line is necessary so that the update done on line 33
+            // will be detected by Vue, and the loading icon will disappear
+            song = Vue.reactive(song);
             this.playlist.push(song);
             this.trySave(song);
         },
