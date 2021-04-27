@@ -8,8 +8,13 @@ This repository is for the 2021 spring edition of the DAT310 Web programming cou
   - [Discord server](https://discord.gg/DmYvcMHFxf)
   - [List of useful resources](Resources.md)
   - [**Exam project**](examproject/examproject.md)
+  - [Competition and guest lecture](project-competition.md)
   
-  
+## Guest lecture:
+
+> Neelam Shah: **The Software Engineering lifecycle. From requirements to development of frontend incl. automated testing** on *Friday 30. April 10am*
+
+> Antonio Cabrero: **Differens between WebDesign and UX. How is the day as a frontend developer and what type of technology do you need not know to work as frontend developer.** on *Tuesday 11. May*
   
   
 ## Schedule 
